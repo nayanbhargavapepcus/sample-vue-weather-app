@@ -1,5 +1,7 @@
 # sample-vue-weather-app
 
+This is app (POC) being created to learn vue, this is a weather app.
+
 ## Project setup
 ```
 npm install
